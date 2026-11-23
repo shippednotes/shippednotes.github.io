@@ -1,7 +1,7 @@
 +++
 title= "Going Back in Time"
 date= 2026-11-18
-description= "Setting up zsh, terminal and vim"
+description= "Setting up zsh, terminal and neovim"
 draft= true
 authors= ["Çağrı"]
 
