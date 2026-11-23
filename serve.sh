@@ -6,4 +6,4 @@ docker run --rm -it \
   -v "$PWD":/app --workdir /app \
   -p 1111:1111 -p 1024:1024 \
   ghcr.io/getzola/zola:v0.21.0 \
-  serve --interface 0.0.0.0 --port 1111 --base-url localhost
+  serve --interface 0.0.0.0 --port 1111 --base-url localhost --drafts
